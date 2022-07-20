@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <p> Welcome To Mahakal </p>
+   <p style="color:blue;"> Welcome To Mahakal Ujjain </p>
 
   
 </form>
