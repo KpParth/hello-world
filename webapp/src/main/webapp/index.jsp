@@ -33,6 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <p style="color:blue;"> Welcome To Mahakal Ujjain </p>
-   <p style="color:red;"> City Of Avantika</p>
+   <p style="color:red;"> City Of Avantika Nagri</p>
   
 </form>
